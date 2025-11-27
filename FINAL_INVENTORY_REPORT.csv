@@ -1,0 +1,97 @@
+bar,brand,model_used,current_stock_ml,ddlt_forecast_ml,safety_stock_ml,recommended_par_level_ml,order_quantity_bottles,recommendation
+Anderson's Bar,Bacardi,XGBoost,108.6,1194.2,474.7,1668.9,3,**ORDER NOW**
+Brown's Bar,Smirnoff,XGBoost,0,1158,568.5,1726.5,3,**ORDER NOW**
+Brown's Bar,Yellow Tail,XGBoost,0,1037.2,547.4,1584.7,3,**ORDER NOW**
+Brown's Bar,Grey Goose,XGBoost,0,1016.4,567.2,1583.6,3,**ORDER NOW**
+Taylor's Bar,Miller,XGBoost,0,920.1,631.2,1551.3,3,**ORDER NOW**
+Taylor's Bar,Sutter Home,XGBoost,0,992.7,625.4,1618,3,**ORDER NOW**
+Johnson's Bar,Jameson,XGBoost,0,1071.2,522.3,1593.5,3,**ORDER NOW**
+Anderson's Bar,Grey Goose,XGBoost,0,864,444.2,1308.2,2,**ORDER NOW**
+Brown's Bar,Malibu,XGBoost,0,925.5,567.8,1493.4,2,**ORDER NOW**
+Brown's Bar,Coors,XGBoost,361.5,729.8,737.7,1467.4,2,**ORDER NOW**
+Brown's Bar,Jack Daniels,XGBoost,440.6,959.4,588.8,1548.2,2,**ORDER NOW**
+Brown's Bar,Jim Beam,XGBoost,722.3,1313,533.8,1846.7,2,**ORDER NOW**
+Brown's Bar,Budweiser,XGBoost,0,1005.8,481.5,1487.4,2,**ORDER NOW**
+Anderson's Bar,Absolut,XGBoost,0,564.3,498.3,1062.6,2,**ORDER NOW**
+Anderson's Bar,Budweiser,XGBoost,0,885.3,555.8,1441.2,2,**ORDER NOW**
+Anderson's Bar,Heineken,XGBoost,182,920.9,586.1,1507,2,**ORDER NOW**
+Johnson's Bar,Yellow Tail,XGBoost,0,861.6,489,1350.6,2,**ORDER NOW**
+Johnson's Bar,Miller,XGBoost,0,610.6,606.9,1217.5,2,**ORDER NOW**
+Smith's Bar,Miller,XGBoost,301.5,884,505.3,1389.3,2,**ORDER NOW**
+Smith's Bar,Malibu,XGBoost,336.3,1216.6,481.2,1697.8,2,**ORDER NOW**
+Smith's Bar,Bacardi,XGBoost,281,1067.2,507.1,1574.3,2,**ORDER NOW**
+Smith's Bar,Heineken,XGBoost,391.3,1050.3,470.6,1520.9,2,**ORDER NOW**
+Thomas's Bar,Heineken,XGBoost,146.9,851.2,554.2,1405.4,2,**ORDER NOW**
+Thomas's Bar,Barefoot,XGBoost,668.2,1039,520,1559,2,**ORDER NOW**
+Johnson's Bar,Bacardi,XGBoost,875.3,1132.1,549.6,1681.7,2,**ORDER NOW**
+Anderson's Bar,Yellow Tail,XGBoost,628.6,1088.2,659.5,1747.6,2,**ORDER NOW**
+Anderson's Bar,Miller,XGBoost,0,698.4,635.2,1333.6,2,**ORDER NOW**
+Johnson's Bar,Smirnoff,XGBoost,1046.1,838.3,506.4,1344.6,1,**ORDER NOW**
+Smith's Bar,Jack Daniels,XGBoost,998.4,995.3,510.4,1505.7,1,**ORDER NOW**
+Smith's Bar,Smirnoff,XGBoost,1288,1026.9,626,1652.9,1,**ORDER NOW**
+Smith's Bar,Captain Morgan,XGBoost,1022.3,1113.4,486.6,1600,1,**ORDER NOW**
+Brown's Bar,Miller,XGBoost,1298.8,800,562.6,1362.6,1,**ORDER NOW**
+Taylor's Bar,Bacardi,XGBoost,693.8,827.5,557.8,1385.3,1,**ORDER NOW**
+Taylor's Bar,Absolut,XGBoost,1353.9,1273.1,580.2,1853.2,1,**ORDER NOW**
+Taylor's Bar,Yellow Tail,XGBoost,1487.2,1091.9,573.2,1665.1,1,**ORDER NOW**
+Taylor's Bar,Budweiser,XGBoost,1641.3,1187.8,536.4,1724.1,1,**ORDER NOW**
+Johnson's Bar,Captain Morgan,XGBoost,1405.8,949.5,503.2,1452.7,1,**ORDER NOW**
+Thomas's Bar,Jameson,XGBoost,871.6,683.1,572.7,1255.8,1,**ORDER NOW**
+Thomas's Bar,Sutter Home,XGBoost,933.2,928.9,600.8,1529.7,1,**ORDER NOW**
+Anderson's Bar,Barefoot,XGBoost,7321.3,911.3,474.4,1385.7,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Captain Morgan,XGBoost,8383.2,965.3,560,1525.4,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Coors,XGBoost,2146,1133.2,420.9,1554.1,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Jack Daniels,XGBoost,3995.1,1001.5,562.1,1563.6,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Jameson,XGBoost,2688.4,826,532.9,1358.9,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Malibu,XGBoost,1568.6,820.7,586.7,1407.5,0,MAINTAIN
+Anderson's Bar,Jim Beam,XGBoost,4518.5,1128.5,545.9,1674.4,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Smirnoff,XGBoost,8085.3,1053.8,524.4,1578.3,0,OVERSTOCK / TRANSFER
+Anderson's Bar,Sutter Home,XGBoost,6044.5,956.6,603.6,1560.2,0,OVERSTOCK / TRANSFER
+Brown's Bar,Sutter Home,XGBoost,3763.9,757,512.9,1269.9,0,OVERSTOCK / TRANSFER
+Brown's Bar,Jameson,XGBoost,6474.5,718.6,515.5,1234,0,OVERSTOCK / TRANSFER
+Brown's Bar,Captain Morgan,XGBoost,1663.4,876.3,532.8,1409.1,0,MAINTAIN
+Brown's Bar,Absolut,XGBoost,2843.6,909.2,534,1443.2,0,OVERSTOCK / TRANSFER
+Brown's Bar,Barefoot,XGBoost,8542.6,1203.8,473.8,1677.6,0,OVERSTOCK / TRANSFER
+Brown's Bar,Bacardi,XGBoost,6088.5,914.6,448.4,1363,0,OVERSTOCK / TRANSFER
+Brown's Bar,Heineken,XGBoost,1770.2,1241.4,469.5,1710.8,0,MAINTAIN
+Johnson's Bar,Coors,XGBoost,3672,1220.8,523.4,1744.2,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Sutter Home,XGBoost,3951.5,1032.9,453.9,1486.9,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Jack Daniels,XGBoost,3640.2,1024.3,537.9,1562.2,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Jim Beam,XGBoost,5554.8,985.8,580.1,1565.9,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Malibu,XGBoost,2965.5,1225,446.2,1671.2,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Budweiser,XGBoost,4938.3,1244.8,530,1774.8,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Heineken,XGBoost,5286.2,1113,472.3,1585.4,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Barefoot,XGBoost,5439.1,811.8,534.8,1346.6,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Absolut,XGBoost,4996.8,645.6,456.2,1101.7,0,OVERSTOCK / TRANSFER
+Smith's Bar,Yellow Tail,XGBoost,5329.3,582.5,529,1111.5,0,OVERSTOCK / TRANSFER
+Smith's Bar,Sutter Home,XGBoost,6641.9,1138.5,518,1656.5,0,OVERSTOCK / TRANSFER
+Smith's Bar,Jameson,XGBoost,5863.5,1195.8,618.7,1814.5,0,OVERSTOCK / TRANSFER
+Smith's Bar,Jim Beam,XGBoost,5605.1,1157.4,460.5,1617.8,0,OVERSTOCK / TRANSFER
+Smith's Bar,Budweiser,XGBoost,3756,818.6,464.2,1282.8,0,OVERSTOCK / TRANSFER
+Smith's Bar,Barefoot,XGBoost,2094.1,1150.1,562.5,1712.7,0,MAINTAIN
+Smith's Bar,Coors,XGBoost,2058.2,1357.6,487.6,1845.2,0,MAINTAIN
+Smith's Bar,Grey Goose,XGBoost,3361.2,814.5,518.1,1332.6,0,OVERSTOCK / TRANSFER
+Smith's Bar,Absolut,XGBoost,4225.5,941.4,527.4,1468.8,0,OVERSTOCK / TRANSFER
+Johnson's Bar,Grey Goose,XGBoost,4141.2,1311.8,537.7,1849.5,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Coors,XGBoost,8367.6,894.4,500.2,1394.6,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Jack Daniels,XGBoost,3067.9,804.5,543,1347.5,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Heineken,XGBoost,8657.8,987.5,544.8,1532.4,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Grey Goose,XGBoost,3085.3,871.4,507,1378.3,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Captain Morgan,XGBoost,7385.2,1201.3,587.7,1788.9,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Barefoot,XGBoost,10850.8,888.4,464,1352.4,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Smirnoff,XGBoost,2705.5,1147.2,538.7,1685.9,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Jameson,XGBoost,1546.8,878.3,491.8,1370.2,0,MAINTAIN
+Taylor's Bar,Jim Beam,XGBoost,2195.9,906,455.9,1361.9,0,OVERSTOCK / TRANSFER
+Taylor's Bar,Malibu,XGBoost,1806.5,1090.3,581.1,1671.5,0,MAINTAIN
+Thomas's Bar,Budweiser,XGBoost,3436.7,752.2,635.2,1387.4,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Captain Morgan,XGBoost,5400.5,916.4,558.7,1475,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Bacardi,XGBoost,2401.2,1211.7,457.4,1669,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Absolut,XGBoost,2296.4,1092.7,453.4,1546.2,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Grey Goose,XGBoost,4810.5,813.6,510.4,1324,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Coors,XGBoost,2314.8,1017,577.4,1594.4,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Jim Beam,XGBoost,1809.7,1084.1,529.4,1613.4,0,MAINTAIN
+Thomas's Bar,Jack Daniels,XGBoost,6263.6,806.6,500.2,1306.8,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Malibu,XGBoost,4622.1,1020.7,577.2,1597.9,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Miller,XGBoost,1734.6,894.9,598.5,1493.4,0,MAINTAIN
+Thomas's Bar,Smirnoff,XGBoost,4758.1,1158.1,489.6,1647.7,0,OVERSTOCK / TRANSFER
+Thomas's Bar,Yellow Tail,XGBoost,2389.5,1231.3,582.8,1814.1,0,OVERSTOCK / TRANSFER
